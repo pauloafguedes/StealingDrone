@@ -154,7 +154,7 @@ Light:
   m_Type: 2
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 1
-  m_Range: 3
+  m_Range: 0.5
   m_SpotAngle: 30
   m_CookieSize: 10
   m_Shadows:
@@ -194,6 +194,7 @@ MonoBehaviour:
   nome: 
   disparadorSom: {fileID: 114802000027941700, guid: 6324c5897577ca44ab8cc4058b31d3a3,
     type: 2}
+  lvl: {fileID: 0}
   somclip: {fileID: 8300000, guid: 6aa45aa794217c34582f291f3490e432, type: 3}
   estouGrudado: 0
   valioso: 0
