@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: 62d941eeb860c9a4594a6cd819c20040
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Dogue_Master_2:boca_jnt_01
+    100004: Dogue_Master_2:boca_jnt_X
+    100006: Dogue_Master_2:cabeca_jnt
+    100008: Dogue_Master_2:cabeca_jnt_X
+    100010: Dogue_Master_2:calcanhar_dir
+    100012: Dogue_Master_2:calcanhar_esq
+    100014: Dogue_Master_2:calcanhar_frente_dir
+    100016: Dogue_Master_2:calcanhar_frente_esq
+    100018: Dogue_Master_2:coluna_jnt_01
+    100020: Dogue_Master_2:coluna_jnt_02
+    100022: Dogue_Master_2:coluna_jnt_03
+    100024: Dogue_Master_2:coluna_jnt_04
+    100026: Dogue_Master_2:coluna_jnt_X
+    100028: Dogue_Master_2:Dog_Completo_LOWCOMPLETO:polySurface1
+    100030: Dogue_Master_2:joelho_dir_01
+    100032: Dogue_Master_2:joelho_esq_01
+    100034: Dogue_Master_2:orelha_dir_jnt_01
+    100036: Dogue_Master_2:orelha_dir_jnt_02
+    100038: Dogue_Master_2:orelha_dir_jnt_03
+    100040: Dogue_Master_2:orelha_dir_jnt_X
+    100042: Dogue_Master_2:orelha_esq_jnt_01
+    100044: Dogue_Master_2:orelha_esq_jnt_02
+    100046: Dogue_Master_2:orelha_esq_jnt_03
+    100048: Dogue_Master_2:orelha_esq_jnt_X
+    100050: Dogue_Master_2:pe_dir
+    100052: Dogue_Master_2:pe_dir 1
+    100054: Dogue_Master_2:perna_dir_02
+    100056: Dogue_Master_2:perna_esq_01
+    100058: Dogue_Master_2:perna_frente_dir
+    100060: Dogue_Master_2:perna_frente_dir2
+    100062: Dogue_Master_2:perna_frente_esq
+    100064: Dogue_Master_2:perna_frente_esq2
+    100066: Dogue_Master_2:pescoco_jnt_01
+    100068: Dogue_Master_2:pescoco_jnt_02
+    100070: Dogue_Master_2:ponta_frente_dir
+    100072: Dogue_Master_2:ponta_frente_dirx
+    100074: Dogue_Master_2:ponta_frente_esq
+    100076: Dogue_Master_2:ponta_frente_esqx
+    100078: Dogue_Master_2:pontadopeX
+    100080: Dogue_Master_2:pontadopeX_dir
+    100082: Dogue_Master_2:rabo_jnt_01
+    100084: Dogue_Master_2:rabo_jnt_02
+    100086: Dogue_Master_2:rabo_jnt_03
+    100088: Dogue_Master_2:rabo_jnt_04
+    100090: Dogue_Master_2:rabo_jnt_05
+    100092: Dogue_Master_2:rabo_jnt_x
+    100094: Dogue_Master_2:rigg
+    400000: //RootNode
+    400002: Dogue_Master_2:boca_jnt_01
+    400004: Dogue_Master_2:boca_jnt_X
+    400006: Dogue_Master_2:cabeca_jnt
+    400008: Dogue_Master_2:cabeca_jnt_X
+    400010: Dogue_Master_2:calcanhar_dir
+    400012: Dogue_Master_2:calcanhar_esq
+    400014: Dogue_Master_2:calcanhar_frente_dir
+    400016: Dogue_Master_2:calcanhar_frente_esq
+    400018: Dogue_Master_2:coluna_jnt_01
+    400020: Dogue_Master_2:coluna_jnt_02
+    400022: Dogue_Master_2:coluna_jnt_03
+    400024: Dogue_Master_2:coluna_jnt_04
+    400026: Dogue_Master_2:coluna_jnt_X
+    400028: Dogue_Master_2:Dog_Completo_LOWCOMPLETO:polySurface1
+    400030: Dogue_Master_2:joelho_dir_01
+    400032: Dogue_Master_2:joelho_esq_01
+    400034: Dogue_Master_2:orelha_dir_jnt_01
+    400036: Dogue_Master_2:orelha_dir_jnt_02
+    400038: Dogue_Master_2:orelha_dir_jnt_03
+    400040: Dogue_Master_2:orelha_dir_jnt_X
+    400042: Dogue_Master_2:orelha_esq_jnt_01
+    400044: Dogue_Master_2:orelha_esq_jnt_02
+    400046: Dogue_Master_2:orelha_esq_jnt_03
+    400048: Dogue_Master_2:orelha_esq_jnt_X
+    400050: Dogue_Master_2:pe_dir
+    400052: Dogue_Master_2:pe_dir 1
+    400054: Dogue_Master_2:perna_dir_02
+    400056: Dogue_Master_2:perna_esq_01
+    400058: Dogue_Master_2:perna_frente_dir
+    400060: Dogue_Master_2:perna_frente_dir2
+    400062: Dogue_Master_2:perna_frente_esq
+    400064: Dogue_Master_2:perna_frente_esq2
+    400066: Dogue_Master_2:pescoco_jnt_01
+    400068: Dogue_Master_2:pescoco_jnt_02
+    400070: Dogue_Master_2:ponta_frente_dir
+    400072: Dogue_Master_2:ponta_frente_dirx
+    400074: Dogue_Master_2:ponta_frente_esq
+    400076: Dogue_Master_2:ponta_frente_esqx
+    400078: Dogue_Master_2:pontadopeX
+    400080: Dogue_Master_2:pontadopeX_dir
+    400082: Dogue_Master_2:rabo_jnt_01
+    400084: Dogue_Master_2:rabo_jnt_02
+    400086: Dogue_Master_2:rabo_jnt_03
+    400088: Dogue_Master_2:rabo_jnt_04
+    400090: Dogue_Master_2:rabo_jnt_05
+    400092: Dogue_Master_2:rabo_jnt_x
+    400094: Dogue_Master_2:rigg
+    2100000: Dogue_Master_2_lambert5
+    2100002: Dogue_Master_2_lambert4
+    4300000: Dogue_Master_2:Dog_Completo_LOWCOMPLETO:polySurface1
+    7400000: LatindoIdle
+    9500000: //RootNode
+    13700000: Dogue_Master_2:Dog_Completo_LOWCOMPLETO:polySurface1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: LatindoIdle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 3
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.03
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 9d40510e489157c4e9730fef847cc952,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
