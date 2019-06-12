@@ -20,12 +20,12 @@ public class Item : MonoBehaviour {
 
     [SerializeField] float valor;
 
+
     void Start()
     {
         lvl = FindObjectOfType<LevelManager>();
         nome = gameObject.name;
         estouGrudado = false;
-        
     }
     void Update()
     {
@@ -86,8 +86,18 @@ public class Item : MonoBehaviour {
 
         if (collenter.gameObject.tag=="Item")
         {
-            float paraquebrar = collenter.relativeVelocity.magnitude * collenter.gameObject.GetComponent<Rigidbody>().mass;
-            float causousom = this.GetComponent<Rigidbody>().mass * 5;
+            float paraquebrar, causousom;
+            if (collenter.gameObject.GetComponent<Rigidbody>())
+            {
+                paraquebrar = collenter.relativeVelocity.magnitude * collenter.gameObject.GetComponent<Rigidbody>().mass;
+                causousom = this.GetComponent<Rigidbody>().mass * 5;
+            }
+            else
+            {
+                paraquebrar = 0;
+                causousom = 0;
+            }
+
             Debug.Log(paraquebrar);
 
             if(paraquebrar>4)

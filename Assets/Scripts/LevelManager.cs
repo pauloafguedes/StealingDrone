@@ -49,7 +49,7 @@ public class LevelManager : MonoBehaviour {
 
         if (tempoRestante > 0)
         {
-            showTempo.text = "Bateria: " + Relogio(tempoRestante);
+            showTempo.text = Relogio(tempoRestante);
         }
         else
         {
